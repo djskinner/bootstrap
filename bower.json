@@ -17,7 +17,6 @@
     "CONTRIBUTING.md",
     "docs",
     "js/tests",
-    "*",
     "less",
     "test-infra"
   ],
