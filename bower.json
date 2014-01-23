@@ -18,7 +18,10 @@
     "docs",
     "js/tests",
     "less",
-    "test-infra"
+    "test-infra",
+    "fonts",
+    "js",
+    "Gruntfile.js"
   ],
   "dependencies": {
     "jquery": ">= 1.9.0"
