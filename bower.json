@@ -20,7 +20,6 @@
     "less",
     "test-infra",
     "fonts",
-    "js",
     "Gruntfile.js"
   ],
   "dependencies": {
